@@ -1,6 +1,6 @@
 # Simple VR interaction using gaze-based and distance-based animation triggering
 
-1. Run the executable file while the Oculus Rift headset is connencted.
+1. Run the executable file "VRStorytellingAssignment2Build.exe" while the Oculus Rift headset is connencted.
 2. Once the game scene boots up, you'll find yourself on a pirate ship. 
 3. You can also see your virtual hands rendered onto the controller's position
 4. Look to the right and you'll see a robot starting to wave at you. Pretty random isn't it?
