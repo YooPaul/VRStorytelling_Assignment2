@@ -7,3 +7,6 @@
 5. Look at the ocean on your left. There will be a humpback whale expressing his happiness. 
 6. However, if you move your hands to close, the whale will run away from you. He does not feel comfortable with strangers.
 7. Although, he has ran away from you, he will eventually come back as long as you keep your distance from him. 
+
+
+If you would like to check out the source code or the get access to the Unity Project then feel free to shoot me an email at yoosehy@uw.edu
