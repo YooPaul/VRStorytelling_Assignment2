@@ -1,6 +1,6 @@
 # Simple VR interaction using gaze-based and distance-based animation triggering
 
-**NOTE:** __The interactions are more responsive when seated. Highly recommend to run the demo seated!__
+###**NOTE:** __The interactions are more responsive when seated. Highly recommend to run the demo seated!__###
 
 1. Run the executable file "VRStorytellingAssignment2Build.exe" while the Oculus Rift headset is connencted.
 2. Once the game scene boots up, you'll find yourself on a pirate ship. 
